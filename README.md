@@ -2,5 +2,5 @@
 super-simple dirbuster made with python
 
 
-#USAGE
+#USAGE: 
 python dirbuster.py <url> <wordlist>
